@@ -1,0 +1,9 @@
+experience,test_score,interview_score,salary
+two,80.0,90.0,50000
+five,70.0,85.0,60000
+,85.0,75.0,52000
+ten,,70.0,80000
+three,60.0,,42000
+seven,90.0,95.0,70000
+,75.0,80.0,62000
+eight,,85.0,72000
